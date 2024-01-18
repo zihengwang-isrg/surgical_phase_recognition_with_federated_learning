@@ -5,7 +5,7 @@ Ziheng Wang, Conor Perreault, Hong Seo Lim, Xi Liu, Sreeram Kamabattula, Sara Iv
 
 [paper] Generalizable Surgical Phase Recognition with Federated Learning for Robot-assisted Surgery and Laparoscopic Surgery
 
-![Alt text](<Screen Shot 2024-01-18 at 12.04.03 PM.png>)
+![Alt text](<diagram.png>)
 
 
 ## License
